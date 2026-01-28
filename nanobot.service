@@ -1,0 +1,12 @@
+[Unit]
+Description=Nanobot service | contact coordinacioweb@insestatut.cat
+After=network.target
+
+[Service]
+User=root
+Group=root
+WorkingDirectory=/home/estatut/EstatutProgAdvisor
+ExecStart=node server.js
+
+[Install]
+WantedBy=multi-user.target

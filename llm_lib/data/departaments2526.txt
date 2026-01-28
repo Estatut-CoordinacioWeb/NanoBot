@@ -1,0 +1,269 @@
+Organigrama,Professor,Administració i Gestió 
+David Martínez
+
+Organigrama,Professor,Administració i Gestió 
+Àlex Dalmau
+
+Organigrama,Professor,Administració i Gestió 
+Luis Dominguez
+
+Organigrama,Professor,Administració i Gestió 
+Nadine Garcia
+
+Organigrama,Professor,Administració i Gestió 
+Gloria Laso
+
+Organigrama,Professor,Administració i Gestió 
+Laura Martin
+
+Organigrama,Professor,Administració i Gestió 
+David Martínez
+
+Organigrama,Professor,Administració i Gestió 
+Domènec Montoliu
+
+Organigrama,Professor,Administració i Gestió 
+Josep Olivé
+
+Organigrama,Professor,Administració i Gestió 
+Toni Perales
+
+Organigrama,Professor,Administració i Gestió 
+Susana Ruiz
+
+Organigrama,Professor,Administració i Gestió 
+Ana Isabel Salazar
+
+Organigrama,Professor,Administració i Gestió 
+Mourad Zerri
+
+Organigrama,Professor,Àmbit lingüístic
+Yesika Laplaza
+
+Organigrama,Professor,Àmbit lingüístic
+Clara Bassó
+
+Organigrama,Professor,Àmbit lingüístic
+Gema Díaz
+
+Organigrama,Professor,Àmbit lingüístic
+Susanna Gomez
+
+Organigrama,Professor,Àmbit lingüístic
+Yesika Laplaza
+
+Organigrama,Professor,Àmbit lingüístic
+Gemma Peralta
+
+Organigrama,Professor,Àmbit lingüístic
+Laia Vilalta
+
+Organigrama,Professor,Àmbit lingüístic
+David Vilaplana
+
+Organigrama,Professor,Àmbit lingüístic
+Jennifer Yera
+
+Organigrama,Professor,Ciències Naturals
+Andreu Gasco
+
+Organigrama,Professor,Ciències Naturals
+Aina Palou
+
+Organigrama,Professor,Ciències Naturals
+Sara Reixach
+
+Organigrama,Professor,Ciències Naturals
+Ana Belen Sanchez
+
+Organigrama,Professor,Ciències Socials
+Laura Garcia
+
+Organigrama,Professor,Ciències Socials
+Núria Clua
+
+Organigrama,Professor,Ciències Socials
+Víctor Cuenca
+
+Organigrama,Professor,Ciències Socials
+Laura Garcia
+
+Organigrama,Professor,Ciències Socials
+Diana Luque
+
+Organigrama,Professor,Ciències Socials
+Javier Peruga
+
+Organigrama,Professor,Ciències Socials
+Ainoa Zuazo
+
+Organigrama,Professor,Expressió
+Artur Ramos
+
+Organigrama,Professor,Expressió
+Carles Pascual
+
+Organigrama,Professor,Expressió
+Artur Ramos
+
+Organigrama,Professor,Expressió
+Adriana Yébana
+
+Organigrama,Professor,Informàtica
+Cristina Maestra
+
+Organigrama,Professor,Informàtica
+Maria Begoña Acasuso
+
+Organigrama,Professor,Informàtica
+Jan Anguita
+
+Organigrama,Professor,Informàtica
+Iciar Aznar
+
+Organigrama,Professor,Informàtica
+Fernando Bartoll
+
+Organigrama,Professor,Informàtica
+Alex Batán
+
+Organigrama,Professor,Informàtica
+Sausan Battikh
+
+Organigrama,Professor,Informàtica
+Javier Bautista
+
+Organigrama,Professor,Informàtica
+Alberto Beviá
+
+Organigrama,Professor,Informàtica
+Josep Carrera
+
+Organigrama,Professor,Informàtica
+Victor Carretero
+
+Organigrama,Professor,Informàtica
+Gustau Castells
+
+Organigrama,Professor,Informàtica
+David Cornella
+
+Organigrama,Professor,Informàtica
+Eva Fancelli
+
+Organigrama,Professor,Informàtica
+Xaloc Garay
+
+Organigrama,Professor,Informàtica
+Óscar Garcia
+
+Organigrama,Professor,Informàtica
+Sergi Garcia
+
+Organigrama,Professor,Informàtica
+Pol Girbau
+
+Organigrama,Professor,Informàtica
+Javi Gongora
+
+Organigrama,Professor,Informàtica
+Sergi Infantes
+
+Organigrama,Professor,Informàtica
+Ivan Llanas
+
+Organigrama,Professor,Informàtica
+Dani Lleonart
+
+Organigrama,Professor,Informàtica
+David Lopez
+
+Organigrama,Professor,Informàtica
+Mila Machío
+
+Organigrama,Professor,Informàtica
+Cristina Maestra
+
+Organigrama,Professor,Informàtica
+Alfons Mallol
+
+Organigrama,Professor,Informàtica
+Natàlia Martínez
+
+Organigrama,Professor,Informàtica
+Diego Muñoz
+
+Organigrama,Professor,Informàtica
+Jonathan Ortiz
+
+Organigrama,Professor,Informàtica
+Ismael Pajuelo
+
+Organigrama,Professor,Informàtica
+Manuel Romero
+
+Organigrama,Professor,Llengües estrangeres
+Sandra Jimenez
+
+Organigrama,Professor,Llengües estrangeres
+Miguel Murillo
+
+Organigrama,Professor,Llengües estrangeres
+Maria Olivan
+
+Organigrama,Professor,Llengües estrangeres
+Alba Rosas
+
+Organigrama,Professor,Matemàtiques
+Alberto Girau
+
+Organigrama,Professor,Matemàtiques
+Joan Bagudà
+
+Organigrama,Professor,Matemàtiques
+Daniel Fernandez
+
+Organigrama,Professor,Matemàtiques
+Alberto Girau
+
+Organigrama,Professor,Matemàtiques
+Miguel Martinez
+
+Organigrama,Professor,Matemàtiques
+Francisco Peinado
+
+Organigrama,Professor,Orientació
+Neus Galiana
+
+Organigrama,Professor,Orientació
+Jenifer Caballero
+
+Organigrama,Professor,Orientació
+Montserrat Casanovas
+
+Organigrama,Professor,Orientació
+Sílvia Garcia
+
+Organigrama,Professor,Orientació
+Nereida Mercado
+
+Organigrama,Professor,PTT
+Sausan Battikh
+
+Organigrama,Professor,PTT
+Yolanda Montero
+
+Organigrama,Professor,PTT
+Jose Juan Simon
+
+Organigrama,Professor,Tecnologia
+Ana Maria Soriano
+
+Organigrama,Professor,Tecnologia
+Jaume Alberola
+
+Organigrama,Professor,Tecnologia
+Albert Basart
+
+Organigrama,Professor,Tecnologia
+Ana Maria Soriano

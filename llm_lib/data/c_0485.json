@@ -1,0 +1,64 @@
+[
+    {
+        "meta": {
+            "name": "0485. Programació",
+            "duration": {
+                "total": "264 hores",
+                "in_school": "198 hores",
+                "in_business": "66 hores"
+            },
+            "ECTS": 15
+        },
+        "Resultats d'aprenentatge": {
+            "RA1": {
+                "name": "1. Reconeix l'estructura d'un programa informàtic, identificant i relacionant els elements propis del llenguatge de programació utilitzat.",
+                "criterion": [
+                    "1.1 Identifica els blocs que componen l'estructura d'un programa informàtic.",
+                    "1.2 Crea projectes de desenvolupament d'aplicacions.",
+                    "1.3 Utilitza entorns integrats de desenvolupament.",
+                    "1.4 Identifica els diferents tipus de variables i la utilitat específica de cadascun.",
+                    "1.5 Modifica el codi d'un programa per crear i fer servir variables.",
+                    "1.6 Crea i utilitza constants i literals.",
+                    "1.7 Classifica, reconeix i utilitza en expressions els operadors del llenguatge.",
+                    "1.8 Comprova el funcionament de les conversions de tipus explícites i implícites.",
+                    "1.9 Introdueix comentaris al codi."
+                ],
+                "content": [
+                    "1. Identificació dels elements d'un programa informàtic:",
+                    "1.1 Estructura i blocs fonamentals.",
+                    "1.2 Variables.",
+                    "1.3 Tipus de dades.",
+                    "1.4 Literals.",
+                    "1.5 Constants.",
+                    "1.6 Operadors i expressions.",
+                    "1.7 Conversions de tipus.",
+                    "1.8 Comentaris."
+                ]
+            },
+            "RA2": {
+                "name": "2. Escriu i prova programes senzills, reconeixent i aplicant els fonaments de la programació orientada a objectes.",
+                "criterion": [
+                    "2.1 Identifica els fonaments de la programació orientada a objectes.",
+                    "2.2 Escriu programes simples.",
+                    "2.3 Instancia objectes a partir de classes predefinides.",
+                    "2.4 Utilitza mètodes i propietats dels objectes.",
+                    "2.5 Escriu crides a mètodes estàtics.",
+                    "2.6 Utilitza paràmetres a la crida a mètodes.",
+                    "2.7 Incorpora i utilitza llibreries d'objectes.",
+                    "2.8 Utilitza constructors.",
+                    "2.9 Utilitza l'entorn integrat de desenvolupament per a la creació i compilació de programes simples."
+                ],
+                "content": [
+                    "2. Utilització d'objectes",
+                    "2.1 Característiques dels objectes.",
+                    "2.2 Instanciació d'objectes.",
+                    "2.3 Utilització de mètodes. Paràmetres.",
+                    "2.4 Utilització de propietats.",
+                    "2.5 Utilització de mètodes estàtics.",
+                    "2.6 Constructors.",
+                    "2.7 Destrucció d'objectes i alliberament de memòria."
+                ]
+            }
+        }
+    }
+]

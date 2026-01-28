@@ -1,0 +1,149 @@
+Càrrecs,Director
+Gustau Castells
+
+Càrrecs,Secretari
+Francisco Peinado
+
+Càrrecs,Cap d'Estudis
+Gemma Peralta
+
+Càrrecs,Cap d'estudis adjunt
+Javi Gongora
+
+Càrrecs,Coordinador pedagògic
+Alba Rosas
+
+Càrrecs,Coordinador TAC
+Jaume Alberola
+
+Càrrecs,Coordinador de qualitat
+Mila Machío
+
+Càrrecs,Coordinador TIC
+Javier Bautista
+
+Càrrecs,Coordinador TIC
+Josep Carrera
+
+Càrrecs,Coordinació de 1r d'ESO
+Montserrat Casanovas
+
+Càrrecs,Coordinació de 1r d'ESO
+Gema Díaz
+
+Càrrecs,Coordinació de 2n d'ESO
+Jenifer Caballero
+
+Càrrecs,Coordinació de 2n d'ESO
+Susanna Gomez
+
+Càrrecs,Coordinació de 3r d'ESO
+Artur Ramos
+
+Càrrecs,Coordinació de 4t d'ESO
+Nereida Mercado
+
+Càrrecs,Coordinació de Batxillerat
+Miguel Martinez
+
+Càrrecs,Coordinació FP
+Sausan Battikh
+
+Càrrecs,Coordinació CFGB
+Sausan Battikh
+
+Càrrecs,Coordinació CFGB
+Laura Martin
+
+Càrrecs,Cap de departament,Ciències Naturals
+Andreu Gasco
+
+Càrrecs,Cap de departament,Ciències Socials
+Laura Garcia
+
+Càrrecs,Cap de departament,Àmbit lingüístic
+Yesika Laplaza
+
+Càrrecs,Cap de departament,Informàtica
+Cristina Maestra
+
+Càrrecs,Cap de departament,Administració i Gestió
+David Martínez
+
+Càrrecs,Cap de departament,Llengües Estrangeres
+Sandra Jimenez
+
+Càrrecs,Cap de departament,Matemàtiques
+Alberto Girau
+
+Càrrecs,Cap de departament,Orientació
+Neus Galiana
+
+Càrrecs,Cap de departament,PTT
+Sausan Battikh
+
+Càrrecs,Cap de departament,Expressió
+Artur Ramos
+
+Càrrecs,Cap de departament,Tecnologia
+Ana Maria Soriano
+
+Càrrecs,Tutors Cicles,1r SMX T2
+Maria Begoña Acasuso
+
+Càrrecs,Tutors Cicles,2n DAM
+Jan Anguita
+
+Càrrecs,Tutors Cicles,2n SMX T1
+Fernando Bartoll
+
+Càrrecs,Tutors Cicles,2n ASIX
+Alex Batán
+
+Càrrecs,Tutors Cicles,1r SMX T1
+Alberto Beviá
+
+Càrrecs,Tutors Cicles,1r SMX T3
+Victor Carretero
+
+Càrrecs,Tutors Cicles,2n AiF
+Àlex Dalmau
+
+Càrrecs,Tutors Cicles,2n SMX T3
+Óscar Garcia
+
+Càrrecs,Tutors Cicles,2n SMX T4
+Pol Girbau
+
+Càrrecs,Tutors Cicles,2n GA
+Gloria Laso
+
+Càrrecs,Tutors Cicles,1r ASIX
+Ivan Llanas
+
+Càrrecs,Tutors Cicles,2n SMX T2
+Dani Lleonart
+
+Càrrecs,Tutors Cicles,2n DAW
+David Lopez
+
+Càrrecs,Tutors Cicles,1r AiF
+David Martínez
+
+Càrrecs,Tutors Cicles,1r DAW
+Diego Muñoz
+
+Càrrecs,Tutors Cicles,1r SMX D1
+Jonathan Ortiz
+
+Càrrecs,Tutors Cicles,1r SMX D2
+Jonathan Ortiz
+
+Càrrecs,Tutors Cicles,1r GA Tarda
+Toni Perales
+
+Càrrecs,Tutors Cicles,1r DAM
+Manuel Romero
+
+Càrrecs,Tutors Cicles,1r GA Matí
+Ana Isabel Salazar

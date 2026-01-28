@@ -1,0 +1,19 @@
+{
+  "name": "llm_lib",
+  "version": "1.0.0",
+  "main": "memoryService.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "+ don't use \"random\" text split, split by RA and contents keeping a better context for the llm.\r + Prepare ETL for curriculum docx -> txt -> coherent content split.\r + Prepare ETL for Programacions xlsx -> json(?) -> coherent content split\r +",
+  "dependencies": {
+    "@langchain/core": "^0.3.59",
+    "@langchain/langgraph": "^0.3.4",
+    "@langchain/ollama": "^0.2.2",
+    "langchain": "^0.3.1"
+  }
+}

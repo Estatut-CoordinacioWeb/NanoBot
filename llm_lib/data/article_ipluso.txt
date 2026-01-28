@@ -1,0 +1,15 @@
+La primera setmana de juny 9 estudiants de Automação e Sistemas Informáticos, Engenharia Informática e Aplicações i Desenvolvimento para a Web e Dispositivos Móveis de l’INSTITUT POLITÈCNICO DA LUSOFONIA (IPLUSO) van vindre a fer el curs d’AWS Cloud Foundations al nostre institut amb una de les mobilitats Erasmus+.
+
+L’Institut Politècnic de Lusofonia (IPLUSO) és una institució d’ensenyament superior politècnica privada.
+
+L’objectiu principal de les Escoles d’Educació Superior és fomentar el coneixement científic, tecnològic i artístic en les àrees de Comunicació, Arts, Educació, Enginyeria i Tecnologia, Gestió, Turisme i Salut (humana i animal).
+
+El Centre de Recerca té com a objectiu promoure i desenvolupar la recerca científica fonamental i aplicada en diferents àrees del coneixement i promoure activitats de divulgació a la societat.
+
+L’experiència va ser molt enriquidora i van poder realitzar al llarg de la setmana un curs introductori al cloud Computing que els permet accedir al certificat bàsic d’AWS.
+
+El primer dia vam fer una visita a les instal·lacions del nostre centre on van poder veure la gran peculiaritat que té el nostre centre on tenim unes runes romanes (lacus) ubicades a la classe de plàstica.
+
+També vam aprofitar per aprendre jugant fent un campionat d’AWS Deep Racer. Es tracta d’un servei en Cloud de Amazon Web Services que permet provar la tècnica d’aprenentatge per reforç que fan servir algunes aplicacions que funcionen amb IA. Aquest servei fa servir cotxes autònoms a escala en un format virtual on es poden entrenar els models neuronals que permeten després la conducció autònoma. Com podeu veure vaig poder demostrar que estic en bona forma, ja que ningú va poder millorar el meu temps.
+
+L’últim día vam fer un dinar de germanor a la cantina del nostre centre i poder comprovar la bona cuina que ens prepara la Vane.

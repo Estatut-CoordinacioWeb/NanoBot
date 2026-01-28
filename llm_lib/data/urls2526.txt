@@ -1,0 +1,29 @@
+enllaços,estudis
+Estudis que oferim: https://agora.xtec.cat/ies-estatut/estudis/
+
+enllaços,preinscripcions,ESO
+Preinscripcions ESO: https://agora.xtec.cat/ies-estatut/secretaria/preinscripcions-2025-2026/preinscripcions-eso-2025-2026/
+
+enllaços,preinscripcions,Batxillerat
+Preinscripcions Batxillerat: https://agora.xtec.cat/ies-estatut/secretaria/preinscripcions-2025-2026/preinscripcions-batxillerat-2025-2026/
+
+enllaços,preinscripcions,PFI
+Preinscripcions PFI: https://agora.xtec.cat/ies-estatut/secretaria/preinscripcions-2025-2026/preinscripcions-pfi-2025-2026/
+
+enllaços,preinscripcions,Grau Bàsic
+Preinscripcions Grau Bàsic: https://agora.xtec.cat/ies-estatut/secretaria/preinscripcions-2025-2026/preinscripcions-grau-basic-2025-2026/
+
+enllaços,preinscripcions,Grau Mitjà
+Preinscripcions Grau Mitjà: https://agora.xtec.cat/ies-estatut/secretaria/preinscripcions-2025-2026/preinscripcions-grau-mitja-2025-2026/
+
+enllaços,preinscripcions,Grau Superior
+Preinscripcions Grau Superior: https://agora.xtec.cat/ies-estatut/secretaria/preinscripcions-2025-2026/preinscripcions-grau-superior-2025-2026/
+
+enllaços,horari,secretaria
+Horari de secretaria: https://agora.xtec.cat/ies-estatut/secretaria/
+
+enllaços,menjador
+Servei de menjador: https://agora.xtec.cat/ies-estatut/servei-menjador/
+
+enllaços,reparació ordinadors
+Reparació d'ordinadors: https://agora.xtec.cat/ies-estatut/reparacio-dordinadors/

@@ -1,0 +1,17 @@
+services:
+  chatbot:
+    build: .
+    ports:
+      - "3039:3039"
+  ollama-server:
+    image: "ollama/ollama"
+    volumes:
+      - ollama-server:/root/.ollama
+    ports:
+      - "11434:11434"
+
+networks:
+  chatbot-network:
+
+volumes:
+  ollama-server:
