@@ -211,7 +211,7 @@ function nanobotMain() {
     */
     async function sendMessage(msg, onChatStarted = () => { }, onChatToken = () => { }, onChatEnd = () => { }) {
         return new Promise((resolve) => {
-            let ws = new WebSocket("wss://nanobot.dow99999.dev/askstream");
+            let ws = new WebSocket("wss://nanobot.insestatut.com/askstream");
             let rload = false;
 
             ws.addEventListener("open", (ev) => {

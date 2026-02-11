@@ -43,7 +43,7 @@ app.post("/ask", async (req, res) => {
  */
 
 /** @type {RAG<RAGTemplate>} */
-let rag = new RAG("localhost", "gemma3:12b", "embeddinggemma", fs.readFileSync("./llm_lib/model_rules/nanobot.template").toString());
+let rag = new RAG("localhost", "gemma3:4b", "embeddinggemma", fs.readFileSync("./llm_lib/model_rules/nanobot.template").toString());
 
 rag.addDocuments(fs.readFileSync("./llm_lib/data/organigrama2526.txt").toString().split("\n\n").map(v => new Document({ pageContent: v })));
 rag.addDocuments(fs.readFileSync("./llm_lib/data/urls2526.txt").toString().split("\n\n").map(v => new Document({ pageContent: v })));
